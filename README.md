@@ -1,6 +1,6 @@
-# [Curso de Álgebra lineal experto](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
+# [Curso de Álgebra lineal](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
 ### Aprende las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
-#### Con [Juan Gabriel Gomila](https://udemy.com/u/juangabriel2) y [María Santos](https://www.udemy.com/user/mery-santos/)
+#### Esto es una prueba para actualizar el repositorio desde R Studio
 
 #### Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
 
