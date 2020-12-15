@@ -2,9 +2,7 @@
 ### Aprende las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
 #### Esto es una prueba para actualizar el repositorio desde R Studio
 
-#### Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
-
-#### Puedes ver todo el material del curso en [nuestra página de Github](https://joanby.github.io/curso-algebra-lineal/index.html)
+#### Material del curso [:)](https://joanby.github.io/curso-algebra-lineal/index.html)
 
 ### ¿Qué vas a aprender?
 
